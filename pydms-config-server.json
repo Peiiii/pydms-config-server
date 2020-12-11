@@ -1,0 +1,9 @@
+{
+  "HOST": "0.0.0.0",
+  "SERVER_PORT": 8000,
+  "MANAGEMENT_PORT":7000,
+  "DATA_DIR": "./data",
+  "GIT_URI": "gitee.com/OpenGitspace/pydms-demo-config",
+  "GIT_USERNAME": "OpenGitspace",
+  "GIT_PASSWORD": "Gitspace@123456"
+}

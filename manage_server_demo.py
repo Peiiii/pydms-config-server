@@ -1,0 +1,5 @@
+from pydms_config_server import start_management_server,load_config,DEFAULT_CONFIG_FILE
+
+cfg=load_config(DEFAULT_CONFIG_FILE)
+start_management_server(cfg)
+
