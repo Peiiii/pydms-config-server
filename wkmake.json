@@ -1,0 +1,10 @@
+{
+  "author": "Wang Pei",
+  "author_email": "1535376447@qq.com",
+  "pkg_name": "pydms-config-server",
+  "pkg_desc": "pydms-config-server，config server of   microservice systems.",
+  "url": "http://github.com/Peiiii/pydms-config-server",
+  "remote_url": "git@github.com:Peiiii/pydms-config-server",
+  "install_requires": [
+  ]
+}
