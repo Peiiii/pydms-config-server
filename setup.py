@@ -57,7 +57,12 @@ setuptools.setup(
     url="http://github.com/Peiiii/pydms-config-server",
     packages=packages,
     package_dir={'pydms_config_server': 'pydms_config_server'},
-    install_requires=[],
+    install_requires=[
+        "sanic",
+        "jinja2",
+        "freehub",
+        "fire"
+    ],
     entry_points={
         'console_scripts': [
             'pydms-config-server = pydms_config_server.clitools.cli:main',
